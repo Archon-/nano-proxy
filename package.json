@@ -1,0 +1,34 @@
+{
+  "name": "nano-proxy",
+  "version": "0.0.0",
+  "description": "Simple small proxy server in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archon-/nano-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "simple",
+    "proxy",
+    "nodejs",
+    "proxy",
+    "nodejs",
+    "auth",
+    "proxy"
+  ],
+  "author": "Archon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Archon-/nano-proxy/issues"
+  },
+  "homepage": "https://github.com/Archon-/nano-proxy#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1",
+    "supertest": "^6.1.4"
+  }
+}
